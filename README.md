@@ -1,10 +1,11 @@
-# Software de Análise Estatística para Comparação de Grupos v1.0
+# Software de Análise Estatística para Comparação de Grupos v1.01
 
 Uma solução robusta e automatizada desenvolvida em Python para pesquisadores que necessitam comparar medidas entre grupos com rigor metodológico. O software automatiza a escolha dos testes estatísticos com base nos pressupostos dos dados, facilitando a análise de experimentos simples e complexos.
 
 **Autor:** Eduardo Borba Neves
 
 \---
+<img width="1906" height="992" alt="image" src="https://github.com/user-attachments/assets/ff4d3673-e271-493d-a2ef-272f264ea55c" />
 
 ## 
 
@@ -90,10 +91,10 @@ pip install customtkinter pandas numpy matplotlib seaborn scipy statsmodels open
 Se este software for utilizado em sua produção acadêmica, por favor, utilize a seguinte citação:
 
 **Formato ABNT:**
-NEVES, Eduardo Borba. **Software de análise estatística para comparação de medidas entre grupos**. Versão 1.0. \[S.l.]: Zenodo, 2026. Software. DOI: 10.5281/zenodo.19653742
+NEVES, Eduardo Borba. **Software de análise estatística para comparação de medidas entre grupos**. Versão 1.01. \[S.l.]: Zenodo, 2026. Software. DOI: 10.5281/zenodo.19713014
 
 **Formato APA:**
-Neves, E. B. (2026). *Software de análise estatística para comparação de medidas entre grupos* (Version 1.0) \[Computer software]. Zenodo. https://doi.org/10.5281/zenodo.19653742
+Neves, E. B. (2026). *Software de análise estatística para comparação de medidas entre grupos* (Version 1.01) \[Computer software]. Zenodo. https://doi.org/10.5281/zenodo.19713014
 
 \---
 
