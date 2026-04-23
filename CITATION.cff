@@ -6,5 +6,6 @@ authors:
   orcid: https://orcid.org/0000-0003-4507-6562
 title: Software de análise estatística para comparação de medidas entre grupos
 version: 1.0.0
-doi: ' '
+doi: '10.5281/zenodo.19713014'
 date-released: '2026-04-23'
+url: "https://github.com/neveseb/statistical_group_comparison"
