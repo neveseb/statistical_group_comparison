@@ -19,7 +19,7 @@ import os
 class StatisticalApp(ctk.CTk):
     def __init__(self):
         super().__init__()
-        self.title("Software de análise estatística para comparação de medidas entre grupos - By Eduardo Borba Neves")
+        self.title("Software de análise estatística para comparação de medidas entre grupos v.1.01 - By Eduardo Borba Neves")
         self.geometry("1200x800")
         self.df = None
         self.checkboxes = {}
@@ -1175,7 +1175,7 @@ class StatisticalApp(ctk.CTk):
             output += f"{section_num}. CITAÇÃO DO SOFTWARE e NOTA METODOLÓGICA\n"
             output += "━"*75 + "\n\n"
             output += (
-                "CITAÇÃO DO SOFTWARE: NEVES, Eduardo Borba. Software de análise estatística para comparação de medidas entre grupos. Versão 1.0. [S.l.]: Zenodo, 2026. Software. DOI:\n\n\n"
+                "CITAÇÃO DO SOFTWARE: NEVES, Eduardo Borba. Software de análise estatística para comparação de medidas entre grupos. Versão 1.01. [S.l.]: Zenodo, 2026. Software. DOI:https://doi.org/10.5281/zenodo.19713014 \n\n\n"
                 "Os testes foram selecionados com base na verificação dos pressupostos de normalidade (Shapiro-Wilk) e homogeneidade de variâncias (Levene).\n"
                 "Tamanhos de efeito foram calculados conforme Cohen (1988) e Field (2018).\n"
                 "COHEN, J. Statistical power analysis for the behavioral sciences. 2. ed. Hillsdale, NJ: Lawrence Erlbaum Associates, 1988.\n" 
